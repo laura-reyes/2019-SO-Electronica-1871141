@@ -17,11 +17,5 @@ la forma como se compila y se ejecuta es como sigue:
 gcc princiapl.c -o principal && .\principal
 ```
 
-## cpu.c
 
-## mem.c
-
-## threads.c
-
-## io.c
 
